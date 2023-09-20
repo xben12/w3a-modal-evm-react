@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/w3a-modal-evm-react/static/css/main.32e8f7fe.css",
+    "main.js": "/w3a-modal-evm-react/static/js/main.3d727b7e.js",
+    "static/js/848.7da92a88.chunk.js": "/w3a-modal-evm-react/static/js/848.7da92a88.chunk.js",
+    "static/js/833.1c570b1a.chunk.js": "/w3a-modal-evm-react/static/js/833.1c570b1a.chunk.js",
+    "static/js/556.b231a322.chunk.js": "/w3a-modal-evm-react/static/js/556.b231a322.chunk.js",
+    "static/js/378.e86382c9.chunk.js": "/w3a-modal-evm-react/static/js/378.e86382c9.chunk.js",
+    "static/js/839.40285a75.chunk.js": "/w3a-modal-evm-react/static/js/839.40285a75.chunk.js",
+    "static/js/173.41e54357.chunk.js": "/w3a-modal-evm-react/static/js/173.41e54357.chunk.js",
+    "static/js/548.03652b9d.chunk.js": "/w3a-modal-evm-react/static/js/548.03652b9d.chunk.js",
+    "static/js/326.23b52f70.chunk.js": "/w3a-modal-evm-react/static/js/326.23b52f70.chunk.js",
+    "static/js/906.c6c15ebd.chunk.js": "/w3a-modal-evm-react/static/js/906.c6c15ebd.chunk.js",
+    "static/js/58.7bc098d9.chunk.js": "/w3a-modal-evm-react/static/js/58.7bc098d9.chunk.js",
+    "static/js/687.119582bf.chunk.js": "/w3a-modal-evm-react/static/js/687.119582bf.chunk.js",
+    "static/js/611.2c0d5747.chunk.js": "/w3a-modal-evm-react/static/js/611.2c0d5747.chunk.js",
+    "static/js/835.fead6682.chunk.js": "/w3a-modal-evm-react/static/js/835.fead6682.chunk.js",
+    "static/js/142.b5a75de6.chunk.js": "/w3a-modal-evm-react/static/js/142.b5a75de6.chunk.js",
+    "index.html": "/w3a-modal-evm-react/index.html",
+    "main.32e8f7fe.css.map": "/w3a-modal-evm-react/static/css/main.32e8f7fe.css.map",
+    "main.3d727b7e.js.map": "/w3a-modal-evm-react/static/js/main.3d727b7e.js.map",
+    "556.b231a322.chunk.js.map": "/w3a-modal-evm-react/static/js/556.b231a322.chunk.js.map",
+    "611.2c0d5747.chunk.js.map": "/w3a-modal-evm-react/static/js/611.2c0d5747.chunk.js.map",
+    "835.fead6682.chunk.js.map": "/w3a-modal-evm-react/static/js/835.fead6682.chunk.js.map",
+    "142.b5a75de6.chunk.js.map": "/w3a-modal-evm-react/static/js/142.b5a75de6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32e8f7fe.css",
+    "static/js/main.3d727b7e.js"
+  ]
+}
